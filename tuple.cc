@@ -1,5 +1,4 @@
-// Author: Valeriy Ovchinnikov
-// Key string: kremsnx@yandex.ru - 5
+// Author: Krems
 
 #include <iostream>
 
